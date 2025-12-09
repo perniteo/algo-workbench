@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aec2cd96-b1bb-437f-aafb-0062d10dd404" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/Assign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/CJLogisticsTracking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/Chatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/DataAccessObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/FirstNonRepeatedFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/Lotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/Lotto2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/OracleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/Prac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/PracThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/PracticeJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/StudyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/ThreadSpeedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/ThreadSpeedTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/countCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/inspectDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/permuteAndStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/reverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/synchronizedPractice.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="36ajUddFOtrvXVuiBiOmbUAcnUK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "애플리케이션.Main.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\perni\git\practice\src\etc" />
+      <recent name="C:\Users\perni\git\practice\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+        <option value="jdk-20.0.2-azul-20.0.2-8336523bb0d9-ce1e98ff" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="aec2cd96-b1bb-437f-aafb-0062d10dd404" name="변경" comment="" />
+      <created>1765251596596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765251596596</updated>
+    </task>
+    <servers />
+  </component>
+</project>

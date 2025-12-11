@@ -1,4 +1,4 @@
-package practice;
+package etc;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;
@@ -7,7 +7,7 @@ import java.util.stream.IntStream;
 public class StudyString {
 
   public static String MinMax(String str) {
-    
+    return "a";
   }
 
   public static boolean isPalindrome(String str) {

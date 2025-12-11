@@ -1,70 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="aec2cd96-b1bb-437f-aafb-0062d10dd404" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/Assign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/CJLogisticsTracking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/Chatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/DataAccessObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/FirstNonRepeatedFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/Lotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/Lotto2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/OracleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/Prac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/PracThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/PracticeJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/StreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/StudyString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/ThreadSpeedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/ThreadSpeedTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/countCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/inspectDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/permuteAndStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/reverseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/synchronizedPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekAlgo/BruteForce/P1436F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekAlgo/BruteForce/P1436F2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekAlgo/BruteForce/P1436S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekAlgo/BruteForce/P1436S2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekAlgo/Problem1018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekAlgo/Sort/InsertionBubble/대표값2_2587.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekAlgo/Sort/InsertionBubble/수정렬하기_2750.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekAlgo/Sort/InsertionBubble/커트라인_25305.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekAlgo/sugarDelivery/solutions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Lv1/_2016년.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/PCCE/데이터_분석_10번.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/PCCE/이웃한_칸_9번.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/PCCP/붕대감기_1번.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etc/StudyString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etc/StudyString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="36ajUddFOtrvXVuiBiOmbUAcnUK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "애플리케이션.Main.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/perni/git/my-frontend&quot;,
+    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StudyString.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\perni\git\practice\src\etc" />
       <recent name="C:\Users\perni\git\practice\src" />
+      <recent name="C:\Users\perni\git\practice\src\etc" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BaekAlgo.Sort.InsertionBubble" />
+      <recent name="BaekAlgo.Sort" />
+      <recent name="BaekAlgo.Sort2750" />
+      <recent name="BaekAlgo.sugarDelivery" />
+      <recent name="BaekAlgo.BruteForce" />
     </key>
   </component>
   <component name="SharedIndexes">

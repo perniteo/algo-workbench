@@ -1,7 +1,11 @@
-import java.io.*;
+package BaekAlgo.Sort.InsertionBubble;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class 커트라인_25305 {
 
   public static void insertionSort(int[] arr) {
     for (int i = 1; i < arr.length; i++) {

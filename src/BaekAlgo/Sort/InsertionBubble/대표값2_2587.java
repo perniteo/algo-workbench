@@ -1,7 +1,10 @@
-import java.io.*;
-import java.util.StringTokenizer;
+package BaekAlgo.Sort.InsertionBubble;
 
-public class Main {
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class 대표값2_2587 {
 
   public static void insertionSort(int[] arr) {
     for (int i = 1; i < arr.length; i++) {
@@ -35,21 +38,19 @@ public class Main {
 
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-    StringTokenizer st = new StringTokenizer(br.readLine());
+    int[] arr = new int[5];
 
-    int n = Integer.parseInt(st.nextToken());
-    int k = Integer.parseInt(st.nextToken());
-
-    int[] arr = new int[n];
-
-    st = new StringTokenizer(br.readLine());
-
-    for (int i = 0; i < n; i++) {
-      arr[i] = Integer.parseInt(st.nextToken());
+    for (int i = 0; i < 5; i++) {
+      arr[i] = Integer.parseInt(br.readLine());
     }
 
-    insertionSort(arr);
+    bubbleSort(arr);
 
-    System.out.println(arr[n-k]);
+    int sum = 0;
+
+    for (int n : arr) {
+      sum+=n;
+    }
+    System.out.printf("%d\n%d", sum/5, arr[2]);
   }
 }

@@ -43,7 +43,6 @@ public class 공원_10번 {
       }
       // mats 배열을 미리 오름차순으로 sort 후 바로 return 하는 방식도 가능할 듯
 
-
       return answer;
     }
   }

@@ -1,4 +1,4 @@
-## 📌 auto_push.sh — Programmers 자동 업로드 스크립트
+## 📌 auto_push.sh — Baekjoon 자동 업로드 스크립트
 
 이 스크립트는 프로그래머스 문제 풀이 폴더를 자동으로 감시하여,
 DONE 파일이 생성되면 GitHub에 자동 커밋 & 푸시하는 자동화 도구입니다.
@@ -8,7 +8,7 @@ Git Bash(또는 리눅스 Bash)에서 실행되며,
 
 ### 🚀 기능 요약
 
-Programmers 폴더 내부를 주기적으로 스캔
+Baekjoon 폴더 내부를 주기적으로 스캔
 
 DONE 파일이 있는 문제 폴더 자동 감지
 

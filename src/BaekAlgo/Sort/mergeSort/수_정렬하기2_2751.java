@@ -1,4 +1,4 @@
-package BaekAlgo.mergeSort;
+package BaekAlgo.Sort.mergeSort;
 import java.io.*;
 
 public class 수_정렬하기2_2751 {

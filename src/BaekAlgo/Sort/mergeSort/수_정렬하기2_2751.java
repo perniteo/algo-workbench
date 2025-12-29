@@ -35,7 +35,7 @@ public class 수_정렬하기2_2751 {
       int k = 0;
 
       while(i < left.length && j < right.length) {
-        if (left[i] < right[j]) {
+        if (left[i] <= right[j]) {
           arr[k++] = left[i++];
         } else {
           arr[k++] = right[j++];

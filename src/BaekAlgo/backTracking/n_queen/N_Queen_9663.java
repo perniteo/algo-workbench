@@ -1,4 +1,4 @@
-package BaekAlgo.backTracking;
+package BaekAlgo.backTracking.n_queen;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

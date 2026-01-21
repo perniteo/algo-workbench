@@ -1,4 +1,4 @@
-package BaekAlgo.dijkstra;
+package BaekAlgo.shortestPath;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -11,6 +11,8 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 public class 최단경로_1753 {
+
+  // dijkstra
 
   static ArrayList<ArrayList<Node>> graph = new ArrayList<>();
 

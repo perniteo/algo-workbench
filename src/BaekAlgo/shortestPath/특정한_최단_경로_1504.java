@@ -1,4 +1,4 @@
-package BaekAlgo.dijkstra;
+package BaekAlgo.shortestPath;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,6 +10,8 @@ import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
 public class 특정한_최단_경로_1504 {
+
+  // 두 정점을 반드시 통과한 dijkstra
 
   static ArrayList<ArrayList<Node>> graph;
 

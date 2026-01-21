@@ -1,4 +1,4 @@
-package BaekAlgo.dijkstra;
+package BaekAlgo.shortestPath;
 
 import java.io.BufferedReader;
 import java.io.IOException;

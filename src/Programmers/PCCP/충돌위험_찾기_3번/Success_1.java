@@ -15,7 +15,6 @@ class Success_1 {
         List<List<Integer>> list = new ArrayList<>();
 
         for (int[] route : routes) {
-
             List<Integer> r = new ArrayList<>();
 
             r.add(points[route[0] - 1][0] * 1000+ points[route[0] - 1][1]);

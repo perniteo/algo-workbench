@@ -2,7 +2,7 @@ package Programmers.Lv2;
 
 import java.util.*;
 
-class Solution {
+class 시소_짝꿍 {
 
   // count overflow 주의
 

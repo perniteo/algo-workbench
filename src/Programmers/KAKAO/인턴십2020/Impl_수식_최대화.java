@@ -1,4 +1,4 @@
-package Programmers.KAKAO.카카오인턴십2020;
+package Programmers.KAKAO.인턴십2020;
 
 import java.util.*;
 

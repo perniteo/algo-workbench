@@ -1,4 +1,4 @@
--- 
+-- 3611. Find Overbooked Employees
 
 WITH DATE_GROUP AS (
     SELECT MEETING_ID, EMPLOYEE_ID,

@@ -1,7 +1,15 @@
-  import java.io.*;
-  import java.util.*;
+package BaekAlgo.greedy;
 
-  public class Main {
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.StringTokenizer;
+
+  public class 뉴스_전하기_1135 {
+
+    // 인접 노드, dfs를 활용한 greedy에 가까운듯
 
     static ArrayList<ArrayList<Integer>> adj;
 
